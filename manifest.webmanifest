@@ -1,0 +1,29 @@
+{
+  "name": "Courtside Pickleball",
+  "short_name": "Courtside",
+  "description": "Round-robin scheduling, scores and live standings for pickleball sessions.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EDF3FC",
+  "theme_color": "#1D5FD6",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
